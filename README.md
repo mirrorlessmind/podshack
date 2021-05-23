@@ -1,4 +1,4 @@
-<img src="/assets/images/PodShackcopy.gif" align="center"
+<img src="/assets/images/hero.pngf" align="center"
      alt="Pod Shack" width="100%" height="auto">
 
 
@@ -13,7 +13,7 @@
 ---
 
 ## Summary 
- > Featuring the Shack Me Button, Pod Shack enable users to view and follow links to suggested Pod Casts. With the Shack Me button it allows user to get a random suggestion
+ > Featuring the Shack Me Button, Pod Shack enable users to view and follow links to suggested Pod Casts. With the Shack Me button it allows user to get a random suggestion. 
 ---
 
 ## Technologies
