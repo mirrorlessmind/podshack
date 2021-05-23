@@ -1,0 +1,38 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "Podshack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirrorlessmind/podshack2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirrorlessmind/podshack2/issues"
+  },
+  "homepage": "https://github.com/mirrorlessmind/podshack#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "exphbs": "^1.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.2",
+    "hbs": "^4.1.2",
+    "install": "^0.13.0",
+    "mysql2": "^2.2.5",
+    "npm": "^7.13.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "podcast-api": "^1.0.8",
+    "sequelize": "^6.6.2"
+  }
+}

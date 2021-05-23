@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS podshack_db;
+
+CREATE DATABASE podshack_db;
