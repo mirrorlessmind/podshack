@@ -1,4 +1,4 @@
-<img src="/Assets/images/podshack copy.gif" align="center"
+<img src="/Assets/images/Pod Shack copy.gif" align="center"
      alt="Pod Shack" width="100%" height="auto">
 
 
