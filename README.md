@@ -1,5 +1,4 @@
-<img src="/assets/images/hero.pngf" align="center"
-     alt="Pod Shack" width="100%" height="auto">
+![Screenshot](assets/images/hero.png?raw=true ) 
 
 
 ---
