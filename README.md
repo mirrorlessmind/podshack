@@ -1,4 +1,4 @@
-![Screenshot](assets/images/hero.png?raw=true ) 
+![Screenshot](assets/images/Pod Shack Copy.gif?raw=true ) 
 
 
 ---
